@@ -1,6 +1,6 @@
 body{
 
-    background-image: url(background.jpg);
+    background-image: url(Devices-Hub/background.jpg);
 }
 
 h1{
@@ -14,10 +14,26 @@ h1{
 }
 
 
-div1{
+#div1{
     display: inline-block;
 }
 
-div2{
+#div2{
     display: inline-block;
+}
+
+#itemname{
+    display: inline-block;
+}
+
+#l1{
+    display: inline-block;
+}
+
+
+
+table, td{
+
+    border: solid 2px black;
+    border-collapse: collapse;
 }
