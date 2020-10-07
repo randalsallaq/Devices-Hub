@@ -1,0 +1,23 @@
+body{
+
+    background-image: url(background.jpg);
+}
+
+h1{
+    background-color:  rgb(93, 93, 93);
+
+    text-align: center;
+
+    padding: 2%;
+
+    color: white;
+}
+
+
+div1{
+    display: inline-block;
+}
+
+div2{
+    display: inline-block;
+}
